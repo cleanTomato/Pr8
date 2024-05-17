@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Handler</string>
+    <string name="thread">Запустить Handler</string>
+</resources>
